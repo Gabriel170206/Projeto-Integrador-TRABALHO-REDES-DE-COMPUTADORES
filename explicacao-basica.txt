@@ -1,0 +1,10 @@
+#Requisitos básicos do trabalho#
+
+- Pcs precisam ter acesso remoto pra realizar tarefas,
+- Pcs precisam de acessos isolados por setores,
+- Atuar em uma rede isolada
+- Permitir acesso somente de pessoas autorizadas.
+- Entregar documento em markdown,  arquivo simulado do projeto, e 3 imagens sobre o trabalho visual.
+- Responder pergntas do documento.md
+- Se necessário usar baixar conteiner para adiantar serviços e evitar trabalho
+
