@@ -172,7 +172,7 @@ Em **até quatro linhas**, explique por que instalar uma biblioteca dentro do co
 
 | Item | Quantidade proposta | Como a equipe estimou? |
 | --- | --- | --- |
-| máquinas de IA para estudantes | **20** | **Tamanho padrão de uma turma.** |
+| máquinas de IA para estudantes | **5** | **Escala reduzida para uma turma menor.** |
 | máquinas de IA exclusivas para professores | `2` | requisito obrigatório |
 | computador de administração técnica | `1` | administração local |
 | gateway/servidor de acesso remoto | `1 serviço` | pode ser uma VM ou serviço institucional existente |
@@ -183,18 +183,18 @@ Em **até quatro linhas**, explique por que instalar uma biblioteca dentro do co
 
 | Cálculo | Resultado |
 | --- | --- |
-| total de dispositivos cabeados | **24** |
+| total de dispositivos cabeados | **9** |
 | uplinks necessários | **1** |
-| reserva de 20% | **5** |
-| total de portas necessárias | **30** |
-| solução escolhida: switch(es) de 24 ou 48 portas | **1 switch de 48 portas** |
+| reserva de 20% | **2** |
+| total de portas necessárias | **11** |
+| solução escolhida: switch(es) de 24 ou 48 portas | **1 switch de 24 portas** |
 
 ### Justificativa
 
 Explique a escolha dos switches em **até três linhas**.
 
 > **Resposta da equipe:**
-> Um switch de 48 portas atende aos 30 acessos necessários e ainda deixa espaço de sobra para futuras expansões sem precisar comprar outro equipamento.
+> Um switch de 24 portas atende aos 11 acessos necessários e ainda deixa margem para futuras expansões sem precisar comprar outro equipamento.
 
 ---
 
