@@ -310,3 +310,42 @@ Escreva **de 80 a 120 palavras**.
 * [X] Há exatamente três evidências visuais.
 * [X] A síntese possui entre 80 e 120 palavras.
 * [X] Nenhum dado real ou credencial do IFMA foi incluído.
+
+---
+
+## 15. Critérios de avaliação
+
+| Critério | Pontos |
+| --- | ---: |
+| requisitos e matriz de permissões | 1,5 |
+| dimensionamento, portas e reserva | 1,0 |
+| topologia e organização das zonas | 1,5 |
+| endereçamento e segmentação | 1,5 |
+| regras de acesso e ACLs | 2,0 |
+| seis testes e três evidências | 1,5 |
+| distinção entre Linux hospedeiro e contêineres | 0,5 |
+| clareza, síntese e participação da equipe | 0,5 |
+| **Total** | **10,0** |
+
+---
+
+## Referências
+
+CISCO NETWORKING ACADEMY. **Simulation mode: Packet Tracer tutorials**. [S. l.], [s. d.]. Disponível em: <https://tutorials.ptnetacad.net/help/default/mode_simulation.htm>. Acesso em: 22 jul. 2026.
+
+CISCO SYSTEMS, INC. **Configure commonly used IP ACLs**. San Jose, 28 jan. 2025a. Disponível em: <https://www.cisco.com/c/en/us/support/docs/ip/access-lists/26448-ACLsamples.html>. Acesso em: 22 jul. 2026.
+
+CISCO SYSTEMS, INC. **Configure inter VLAN routing with the use of an external router**. San Jose, 19 maio 2025b. Disponível em: <https://www.cisco.com/c/en/us/support/docs/lan-switching/inter-vlan-routing/14976-50.html>. Acesso em: 22 jul. 2026.
+
+NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST). **Least privilege**. Gaithersburg, [s. d.]. Disponível em: <https://csrc.nist.gov/glossary/term/least_privilege>. Acesso em: 22 jul. 2026.
+
+OPENSSH. **OpenSSH**. Versão 10.4. [S. l.], 6 jul. 2026. Disponível em: <https://www.openssh.com/>. Acesso em: 22 jul. 2026.
+
+PODMAN PROJECT. **podman: simple management tool for pods, containers and images**. *Podman documentation*. [S. l.], [s. d.]. Disponível em: <https://docs.podman.io/en/latest/markdown/podman.1.html>. Acesso em: 22 jul. 2026.
+
+REKHTER, Yakov et al. **Address allocation for private internets**. RFC 1918. [S. l.]: RFC Editor, fev. 1996. Disponível em: <https://www.rfc-editor.org/rfc/rfc1918.html>. Acesso em: 22 jul. 2026.
+
+---
+
+> **Autoria institucional:** IFMA — Campus Itapecuru-Mirim  
+> **Elaboração e docência:** Professor Thales Levi Azevedo Valente
